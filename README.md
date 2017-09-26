@@ -41,4 +41,4 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 *MIT*
 
-Copyright (c) 2017 **{Angela Gathu**
+Copyright (c) 2017 **Angela Gathu**
