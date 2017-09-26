@@ -1,5 +1,5 @@
-# q
-
+# Q&A BOARD
+This is a question and answer board where a user submits a question and other users can respond with answers. This application enables users to add and edit questions and add answers to a question, among other things.
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
@@ -7,10 +7,10 @@ A short introduction of this app could easily go here.
 
 You will need the following things properly installed on your computer.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with NPM)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+* [Git]
+* [Node.js]
+* [Ember CLI]
+* [Google Chrome]
 
 ## Installation
 
@@ -37,14 +37,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
+### License
 
-Specify what it takes to deploy your app.
+*MIT*
 
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+Copyright (c) 2017 **{Angela Gathu**
